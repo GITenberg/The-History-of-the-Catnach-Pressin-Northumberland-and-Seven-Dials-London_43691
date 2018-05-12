@@ -1,0 +1,32 @@
+_repo: The-History-of-the-Catnach-Pressin-Northumberland-and-Seven-Dials-London_43691
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43691-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hindley, Charles
+    deathdate: 1893
+    gutenberg_agent_id: '38658'
+    url: http://www.gutenberg.org/2009/agents/38658
+description: ''
+gutenberg_issued: '2013-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Chapbooks -- Publishing -- England -- History -- 19th century'
+- !lcsh 'Catnach, James, 1792-1841'
+- !lcsh 'Printing -- England -- History -- 19th century'
+- !lcsh 'Children''s literature -- Publishing -- England -- History -- 19th century'
+- !lcsh 'Ballads, English -- England -- Bibliography'
+- !lcsh 'England -- Imprints'
+- !lcsh 'Ballads -- Publishing -- England -- History -- 19th century'
+title: "The History of the Catnach Press\r\nat Berwick-Upon-Tweed, Alnwick and Newcastle-Upon-Tyne,\
+  \ in Northumberland, and Seven Dials, London"
+url: http://www.gutenberg.org/ebooks/43691
